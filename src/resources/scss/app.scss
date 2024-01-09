@@ -1,5 +1,13 @@
 @import 'variable';
 
-h1{
-    color: $red-Color;
+.user-avatar {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    margin-left: 4px;
+}
+
+.select-all-option{
+    width:200px;
+    margin: 0 10px;
 }
